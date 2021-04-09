@@ -33,6 +33,8 @@ namespace COMP2139_Lab2.Controllers
                 ViewBag.TwentyFive = 0;
             }
             return View(tip);
+
+
         }
     }
 }
