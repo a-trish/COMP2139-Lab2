@@ -2,7 +2,7 @@
 
 namespace COMP2139_Lab2.Models
 {
-    //TESTING 
+    //TESTING testing
     public class TipCalculator
     {
         [Required(ErrorMessage="Please enter a value for the cost of the meal.")]
